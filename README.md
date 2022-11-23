@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Alexandre Huynh (@AlexandreThePlot), french student in a second year of a Computer Science BSc at the IUT de Villetaneuse, Université Sorbonne Paris Nord. 
+- 👋 Hi there, I’m Alexandre Huynh (@AlexandreThePlot), french student in the second year of a Computer Science BSc at the IUT de Villetaneuse, Université Sorbonne Paris Nord. 
 - 👀 I’m interested in Web development, with a preference in front-end development using languages such as PHP, SQL, Javascript.
 <!---
 - 🌱 I’m currently learning ...
