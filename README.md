@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 --->
-- 📫 You can reach me at alexandre.huynh@edu.univ-paris13.fr
+- 📫 You can reach me at alexandre.huynh.pro@gmail.com or alexandre.huynh@edu.univ-paris13.fr
 
 <!---
 AlexandreThePlot/AlexandreThePlot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
