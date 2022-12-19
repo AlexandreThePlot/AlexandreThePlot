@@ -1,4 +1,4 @@
-<h1>👋 Hi there, I’m Alexandre Huynh (@AlexandreThePlot)</h1>
+<h1>👋 Hi there, I’m Alexandre Huynh (@alexandre-huynh)</h1>
   
 - French student in the second year of a Computer Science BSc at the IUT de Villetaneuse, Université Sorbonne Paris Nord. 
 
