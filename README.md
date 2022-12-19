@@ -9,7 +9,7 @@
 --->
 - You can reach me at alexandre.huynh.pro@gmail.com or alexandre.huynh@edu.univ-paris13.fr
 
-<!--
+<!-- Languages usage %
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-huynh&theme=light&hide_langs_below=1" />
 </a>
