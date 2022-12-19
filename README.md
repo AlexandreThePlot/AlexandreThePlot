@@ -9,10 +9,11 @@
 --->
 - You can reach me at alexandre.huynh.pro@gmail.com or alexandre.huynh@edu.univ-paris13.fr
 
+<!--
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-huynh&theme=light&hide_langs_below=1" />
 </a>
-
+-->
 <!---
 alexandre-huynh/alexandre-huynh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
