@@ -25,7 +25,41 @@
 
 - You can reach me at alexandre.huynh.pro@gmail.com or alexandre.huynh@edu.univ-paris13.fr
 -->
+<!--==========================================================-->
 
+<!-- Credit to @alexandrecpedro https://github.com/alexandrecpedro --> 
+
+<h2>Langages</h2>
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="60" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="60" />
+  </a>
+  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="javascript" height="60" />
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" alt="bash" height="60" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original-wordmark.svg" alt="html5" height="60" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original-wordmark.svg" alt="css3" height="60" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" height="60" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" height="60" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" height="60" />
+  </a>
+</p>
 <!--==========================================================-->
 <!-- Credit to @anuraghazra https://github.com/anuraghazra/github-readme-stats --> 
 
