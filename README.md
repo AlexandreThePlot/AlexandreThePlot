@@ -27,7 +27,7 @@
 -->
 <!--==========================================================-->
 
-<!-- Credit to @alexandrecpedro https://github.com/alexandrecpedro --> 
+<!-- Credit to @alexandrecpedro https://github.com/alexandrecpedro and https://github.com/devicons/devicon/tree/v2.15.1 authors --> 
 
 <h2>Langages</h2>
 
