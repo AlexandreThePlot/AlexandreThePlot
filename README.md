@@ -10,7 +10,7 @@
 - You can reach me at alexandre.huynh.pro@gmail.com or alexandre.huynh@edu.univ-paris13.fr
 
 <!-- My languages -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-huynh" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-huynh&hide=jupyter" />
 
 <!---
 alexandre-huynh/alexandre-huynh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
