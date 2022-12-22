@@ -23,10 +23,11 @@
 
 - You can reach me at alexandre.huynh.pro@gmail.com or alexandre.huynh@edu.univ-paris13.fr
 -->
-<hr>
 
 <!--==========================================================-->
 <!-- Credit to @anuraghazra https://github.com/anuraghazra/github-readme-stats --> 
+
+<h2>Statistiques</h2>
 
 <table>
   <tr>
@@ -59,7 +60,15 @@
 <!-- -------------------------------------------------------- -->
 
 <!--==========================================================-->
+<!-- Credit to @anuraghazra https://github.com/anuraghazra/github-readme-stats --> 
 
+<h2>Un de mes projets universitaires (en cours de développement) </h2>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexandre-huynh&repo=S3.01_Site_BDE_Caisse_Enregistreuse&theme=aura_dark&hide_border=true" />
+</a>
+
+<!--==========================================================-->
 <!---
 alexandre-huynh/alexandre-huynh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
