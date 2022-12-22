@@ -1,5 +1,5 @@
 <!--==========================================================-->
-<!--         Bonjour à vous, lecteur de mon README.md !       -->
+<!--          Bonjour à vous, lecteur de README.md !          -->
 <!--==========================================================-->
 
 <!--=======================Description FR=======================-->
@@ -12,6 +12,7 @@
 - Vous pouvez me contacter sur : 
   - mon adresse mail pro : alexandre.huynh.pro@gmail.com
   - mon adresse mail universitaire : alexandre.huynh@edu.univ-paris13.fr .
+
 <!--=======================Alternative EN=======================-->
 <!--
 <h1>👋 Hi there, I’m Alexandre Huynh (@alexandre-huynh)</h1>
@@ -22,24 +23,43 @@
 
 - You can reach me at alexandre.huynh.pro@gmail.com or alexandre.huynh@edu.univ-paris13.fr
 -->
-
-<!--==========================================================-->
 <hr>
+
 <!--==========================================================-->
 <!-- Credit to @anuraghazra https://github.com/anuraghazra/github-readme-stats --> 
 
-<!-- Github stats -->
+<table>
+  <tr>
+    <th>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandre-huynh&show_icons=true&locale=fr&theme=aura_dark&custom_title=Mes%20statistiques%20GitHub" />
+      </a>
+    </th>
+    <th>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-huynh&layout=compact&card_width=445&hide=jupyter%20notebook&langs_count=10&locale=fr&theme=aura_dark&custom_title=Mes%20langages%20les%20plus%20utilis&#233s" />
+      </a>
+    </th>
+  </tr>
+</table>
+
+<!-- -------------------------------------------------------- -->
+<!--- Affichage alternatif
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandre-huynh&show_icons=true&locale=fr&theme=aura_dark&custom_title=Mes%20statistiques%20GitHub" />
 </a>
 
 </br>
 
-<!-- Top Languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-huynh&layout=compact&card_width=445&hide=jupyter%20notebook&langs_count=10&locale=fr&theme=aura_dark&custom_title=Mes%20langages%20les%20plus%20utilis&#233s" />
 </a>
+--->
+<!-- -------------------------------------------------------- -->
+
 <!--==========================================================-->
+
 <!---
 alexandre-huynh/alexandre-huynh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
