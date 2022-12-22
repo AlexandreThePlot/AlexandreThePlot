@@ -5,6 +5,8 @@
 <!--=======================Description FR=======================-->
 <h1>👋 Bonjour, je suis Alexandre Huynh (@alexandre-huynh)</h1>
   
+<h2>À propos de moi</h2>
+  
 - Etudiant en deuxième année de BUT Informatique (ex-DUT Info) à l'IUT de Villetaneuse, Université Sorbonne Paris Nord. 
 
 - Je suis interessé par le développement Web et le front-end, et des langages PHP, SQL, Javascript.
