@@ -139,7 +139,7 @@
 
 <h2>Un de mes projets universitaires (en cours de développement) </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/alexandre-huynh/S3.01_Site_BDE_Caisse_Enregistreuse">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexandre-huynh&repo=S3.01_Site_BDE_Caisse_Enregistreuse&theme=aura_dark&hide_border=true" />
 </a>
 
