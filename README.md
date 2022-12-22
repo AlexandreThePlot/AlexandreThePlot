@@ -84,7 +84,7 @@
                         
 <!--==========================================================-->                        
                         
-<h2>Systèmes d'exploitation</h2>
+<h2>Environnements</h2>
 
 <p align="left">
   <a href="https://www.microsoft.com/fr-fr/windows/" target="_blank" rel="noreferrer">
