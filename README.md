@@ -39,10 +39,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="60" />
   </a>
   <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="javascript" height="60" />
+      <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="c" height="60" />
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" alt="bash" height="60" />
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" alt="php" height="60" />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original-wordmark.svg" alt="html5" height="60" />
@@ -61,6 +61,45 @@
   </a>
 </p>
 <!--==========================================================-->
+
+<h2>Outils</h2>
+
+<p align="left">
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" alt="vscode" height="60" />
+  </a>
+  <a href="https://jupyter.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="60" />
+  </a>
+  <a href="https://www.eclipse.org/org" target="_blank" rel="noreferrer">
+    <img src="https://aymeric-cucherousset.fr/wp-content/uploads/2022/09/logo-eclipse.png" alt="eclipse" height="60" />
+  </a>
+  <a href="https://www.raspberrypi.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="60" />
+  </a>
+  <a href="https://doc.ubuntu-fr.org/ssh" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ssh/ssh-original-wordmark.svg" alt="ssh" height="60" />
+  </a>
+</p>
+                        
+<!--==========================================================-->                        
+                        
+<h2>Systèmes d'exploitation</h2>
+
+<p align="left">
+  <a href="https://www.microsoft.com/fr-fr/windows/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/windows8/windows8-original.svg" alt="windows" height="60" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" height="60" />
+  </a>
+  <a href="https://www.ubuntu-fr.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" height="60" />
+  </a>
+</p>
+
+<!--==========================================================-->
+
 <!-- Credit to @anuraghazra https://github.com/anuraghazra/github-readme-stats --> 
 
 <h2>Statistiques</h2>
