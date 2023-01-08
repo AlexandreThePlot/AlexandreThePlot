@@ -56,6 +56,9 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" height="60" />
   </a>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="60" />
+  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" height="60" />
   </a>
@@ -76,6 +79,9 @@
   </a>
   <a href="https://www.raspberrypi.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="60" />
+  </a>
+  <a href="https://www.github.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg" alt="github" height="60" />
   </a>
   <a href="https://doc.ubuntu-fr.org/ssh" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ssh/ssh-original-wordmark.svg" alt="ssh" height="60" />
@@ -108,7 +114,7 @@
   <tr>
     <th>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandre-huynh&show_icons=true&locale=fr&theme=aura_dark&hide_border=true&custom_title=Mes%20statistiques%20GitHub" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandre-huynh&show_icons=true&count_private=true&locale=fr&theme=aura_dark&hide_border=true&custom_title=Mes%20statistiques%20GitHub" />
       </a>
     </th>
     <th>
