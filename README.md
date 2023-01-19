@@ -142,17 +142,14 @@
 
 <!--==========================================================-->
 
-<!--- A ENLEVER QUAND LA SAE EST TERMINEE
 
-Credit to @anuraghazra https://github.com/anuraghazra/github-readme-stats
+<!--Credit to @anuraghazra https://github.com/anuraghazra/github-readme-stats -->
 
-<h2>Un de mes projets universitaires (en cours de développement) </h2>
+<h2>Un de mes projets universitaires les plus importants</h2>
 
 <a href="https://github.com/alexandre-huynh/S3.01_Site_BDE_Caisse_Enregistreuse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexandre-huynh&repo=S3.01_Site_BDE_Caisse_Enregistreuse&theme=aura_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexandrehuynh&repo=S3.01_Site_BDE_Caisse_Enregistreuse&theme=aura_dark&hide_border=true" />
 </a>
-
---->
 
 <!--==========================================================-->
 <!---
