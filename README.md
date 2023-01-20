@@ -147,8 +147,10 @@
 
 <h2>Un de mes projets universitaires les plus importants</h2>
 
+<p>Une application Web PHP/SQL/JS/HTML/CSS en architecture MVC, utilisé sur un serveur web LAMP</p>
+
 <a href="https://github.com/alexandre-huynh/S3.01_Site_BDE_Caisse_Enregistreuse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexandrehuynh&repo=S3.01_Site_BDE_Caisse_Enregistreuse&theme=aura_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexandre-huynh&repo=S3.01_Site_BDE_Caisse_Enregistreuse&theme=aura_dark&hide_border=true" />
 </a>
 
 <!--==========================================================-->
