@@ -9,7 +9,7 @@
   
 - Etudiant en deuxième année de BUT Informatique (ex-DUT Info) à l'IUT de Villetaneuse, Université Sorbonne Paris Nord. 
 
-- Je suis interessé par le développement Web et le front-end, et des langages PHP, SQL, Javascript.
+- Je suis interessé par le développement Web front-end / back-end, et des langages PHP, SQL, Javascript.
 
 - Vous pouvez me contacter sur : 
   - mon adresse mail pro : alexandre.huynh.pro@gmail.com
