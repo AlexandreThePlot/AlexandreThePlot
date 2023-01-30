@@ -135,7 +135,7 @@
 </br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-huynh&layout=compact&card_width=445&hide=jupyter%20notebook&langs_count=10&locale=fr&theme=aura_dark&custom_title=Mes%20langages%20les%20plus%20utilis&#233s" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-huynh&layout=compact&card_width=445&hide=jupyter%20notebook,hack&langs_count=10&locale=fr&theme=aura_dark&custom_title=Mes%20langages%20les%20plus%20utilis&#233s" />
 </a>
 --->
 <!-- -------------------------------------------------------- -->
