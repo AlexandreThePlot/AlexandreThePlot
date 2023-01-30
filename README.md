@@ -77,9 +77,6 @@
   <a href="https://www.eclipse.org/org" target="_blank" rel="noreferrer">
     <img src="https://aymeric-cucherousset.fr/wp-content/uploads/2022/09/logo-eclipse.png" alt="eclipse" height="60" />
   </a>
-  <a href="https://www.raspberrypi.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="60" />
-  </a>
   <a href="https://www.github.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg" alt="github" height="60" />
   </a>
@@ -101,6 +98,9 @@
   </a>
   <a href="https://www.ubuntu-fr.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" height="60" />
+  </a>
+  <a href="https://www.raspberrypi.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="60" />
   </a>
 </p>
 
