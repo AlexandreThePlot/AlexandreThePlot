@@ -9,7 +9,7 @@
   
 - Étudiant en deuxième année de BUT Informatique (ex-DUT Info) à l'IUT de Villetaneuse, Université Sorbonne Paris Nord. 
 
-- Je suis interessé par le développement Web front-end / back-end, et des langages Python, Java, PHP, SQL et HTML.
+- Je suis interessé par le développement Web front-end / back-end, et des langages Python, Java, PHP, SQL et JavaScript.
 
 - Vous pouvez me contacter sur : 
   - mon adresse mail pro : alexandre.huynh.pro@gmail.com
@@ -41,15 +41,6 @@
   <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
       <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="c" height="60" />
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" height="60" />
-  </a>
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="60" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" height="60" />
-  </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" alt="php" height="60" />
   </a>
@@ -62,34 +53,102 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" height="60" />
   </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" height="60" />
+  </a>
+</p>
+
+<!--==========================================================-->
+
+<h2>Base de données</h2>
+
+<p align="left">
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" height="60" />
+  </a>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="60" />
+  </a>
+</p>
+
+<!--==========================================================-->
+
+<h2>Frameworks</h2>
+
+<p align="left">
+  <a href="https://spring.io" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" alt="springboot" height="60" />
+  </a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="60" />
+  </a>
+  <a href="https://vuejs.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="60" />
+  </a>
+  <a href="https://expressjs.com/fr/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg" alt="expressjs" height="60" />
+  </a>
   <a href="https://jquery.com" target="_blank" rel="noreferrer">
       <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original-wordmark.svg" alt="jquery" height="60" />
   </a>
 </p>
+
 <!--==========================================================-->
 
-<h2>Outils</h2>
+<h2>IDE</h2>
 
 <p align="left">
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" alt="vscode" height="60" />
   </a>
-  <a href="https://jupyter.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="60" />
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" height="60" />
   </a>
   <a href="https://www.eclipse.org/org" target="_blank" rel="noreferrer">
     <img src="https://aymeric-cucherousset.fr/wp-content/uploads/2022/09/logo-eclipse.png" alt="eclipse" height="60" />
   </a>
+  <a href="https://www.jetbrains.com/fr-fr/idea/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" height="60" />
+  </a>
+  <a href="https://www.jetbrains.com/fr-fr/phpstorm/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png" alt="phpstorm" height="60" />
+  </a>
+  <a href="https://www.jetbrains.com/fr-fr/webstorm/" target="_blank" rel="noreferrer">
+    <img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" alt="webstorm" height="60" />
+  </a>
+</p>
+                        
+<!--==========================================================--> 
+
+<h2>Outils</h2>
+
+<p align="left">
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-plain-wordmark.svg" alt="git" height="60" />
+  </a>
   <a href="https://www.github.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg" alt="github" height="60" />
+  </a>
+  <a href="https://jupyter.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="60" />
+  </a>
+  <a href="https://www.npmjs.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" alt="npm" height="60" />
+  </a>
+  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
+    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" height="60" />
+  </a>
+  <a href="https://site.mockito.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/mockito/mockito.github.io/raw/master/img/logo%402x.png" alt="mockito" height="60" />
   </a>
   <a href="https://doc.ubuntu-fr.org/ssh" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ssh/ssh-original-wordmark.svg" alt="ssh" height="60" />
   </a>
 </p>
-                        
-<!--==========================================================-->                        
-                        
+<!-- hi there ! -Alexandre -->
+
+<!--==========================================================-->  
+                                                
 <h2>Environnements</h2>
 
 <p align="left">
