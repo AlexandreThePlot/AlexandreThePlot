@@ -206,7 +206,7 @@
 
 <!--Credit to @anuraghazra https://github.com/anuraghazra/github-readme-stats -->
 
-<h2>Un de mes projets universitaires les plus importants</h2>
+<h2>Un de mes projets universitaires</h2>
 
 <p>Une application Web PHP/SQL/JS/HTML/CSS en architecture MVC, utilisé avec LAMP</p>
 
