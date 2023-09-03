@@ -7,7 +7,7 @@
   
 <h2>À propos de moi</h2>
   
-- Étudiant en deuxième année de BUT Informatique (ex-DUT Info) à l'IUT de Villetaneuse, Université Sorbonne Paris Nord. 
+- Étudiant en troisième année de BUT Informatique (ex-DUT Info) en apprentissage à l'IUT de Villetaneuse, Université Sorbonne Paris Nord. 
 
 - Je suis interessé par le développement Web front-end / back-end, et des langages Python, Java, PHP, SQL et JavaScript.
 
