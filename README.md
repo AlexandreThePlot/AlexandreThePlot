@@ -13,7 +13,6 @@
 
 - Vous pouvez me contacter sur : 
   - mon adresse mail pro : alexandre.huynh.pro@gmail.com
-  - mon adresse mail universitaire : alexandre.huynh@edu.univ-paris13.fr .
 
 <!--=======================Alternative EN=======================-->
 <!--
