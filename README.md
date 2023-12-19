@@ -7,9 +7,9 @@
   
 <h2>À propos de moi</h2>
   
-- Étudiant en troisième année de BUT Informatique (ex-DUT Info) en apprentissage à l'IUT de Villetaneuse, Université Sorbonne Paris Nord. 
+- Étudiant en troisième année de BUT Informatique (ex-DUT Info) en apprentissage, à l'IUT de Villetaneuse (Université Sorbonne Paris Nord). 
 
-- Je suis interessé par le développement Web front-end / back-end, et des langages Python, Java, PHP, SQL et JavaScript.
+- Je suis interessé par le développement logiciel et Web côté front-end / back-end, et des langages Python, Java, PHP, SQL et JavaScript.
 
 - Vous pouvez me contacter sur : 
   - mon adresse mail pro : alexandre.huynh.pro@gmail.com
@@ -18,9 +18,9 @@
 <!--
 <h1>👋 Hi there, I’m Alexandre Huynh (@alexandre-huynh)</h1>
   
-- French student in the second year of a Computer Science BSc at the IUT de Villetaneuse, Université Sorbonne Paris Nord. 
+- French student in the third year of a Computer Science BSc in apprenticeship, at the IUT de Villetaneuse (Université Sorbonne Paris Nord). 
 
-- I’m interested in Web development, with a preference in front-end development using languages such as PHP, SQL, Javascript.
+- I’m interested in software / Web development, in front-end / back-end using languages such as PHP, SQL, Javascript.
 
 - You can reach me at alexandre.huynh.pro@gmail.com or alexandre.huynh@edu.univ-paris13.fr
 -->
