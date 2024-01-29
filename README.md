@@ -67,9 +67,10 @@
       <p align="center">
         <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" alt="vscode" height="60" /></a>
         <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" height="60" /></a>
-        <a href="https://www.eclipse.org/org" target="_blank" rel="noreferrer"><img src="https://aymeric-cucherousset.fr/wp-content/uploads/2022/09/logo-eclipse.png" alt="eclipse" height="60" /></a>
         <br />
+        <a href="https://www.eclipse.org/org" target="_blank" rel="noreferrer"><img src="https://aymeric-cucherousset.fr/wp-content/uploads/2022/09/logo-eclipse.png" alt="eclipse" height="60" /></a>
         <a href="https://www.jetbrains.com/fr-fr/idea/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" height="60" /></a>
+        <br />
         <a href="https://www.jetbrains.com/fr-fr/phpstorm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png" alt="phpstorm" height="60" /></a>
         <a href="https://www.jetbrains.com/fr-fr/webstorm/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" alt="webstorm" height="60" /></a>
       </p>
