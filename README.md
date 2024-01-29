@@ -60,7 +60,9 @@
       <p align="center">
         <a href="https://spring.io" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" alt="springboot" height="60" /></a>
         <a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="60" /></a>
+        <br />
         <a href="https://expressjs.com/fr/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg" alt="expressjs" height="60" /></a>
+        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" height="60" /></a>
       </p>
     </td>
     <td>
