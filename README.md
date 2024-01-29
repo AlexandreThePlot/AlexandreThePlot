@@ -38,10 +38,11 @@
         <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" alt="python" height="60" /></a>
         <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" alt="java" height="60" /></a>
         <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="c" height="60" /></a>
-        <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" alt="php" height="60" /></a>
         <br />
+        <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" alt="php" height="60" /></a>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original-wordmark.svg" alt="html5" height="60" /></a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original-wordmark.svg" alt="css3" height="60" /></a>
+        <br />
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" height="60" /></a>
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" height="60" /></a>
       </p>
@@ -108,11 +109,12 @@
         <a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="60" /></a>
         <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" height="60" /></a>
         <a href="https://site.mockito.org" target="_blank" rel="noreferrer"><img src="https://github.com/mockito/mockito.github.io/raw/master/img/logo%402x.png" alt="mockito" height="60" /></a>
-        <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" alt="npm" height="60" /></a>
         <br />
+        <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" alt="npm" height="60" /></a>
         <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="60" /></a>
         <a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original-wordmark.svg" alt="jquery" height="60" /></a>
         <a href="https://nifi.apache.org/" target="_blank" rel="noreferrer"><img src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/nifi.svg" alt="apache_nifi" height="40" /></a>
+        <br />
         <a href="https://rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" alt="rabbitmq" height="60" /></a>
         <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" height="60" /></a>
         <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png" alt="dbeaver" height="60" /></a>
