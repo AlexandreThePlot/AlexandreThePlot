@@ -35,46 +35,46 @@
   <tr>
     <td>
       <p align="center">
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" alt="python" height="60" /></a>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" alt="java" height="60" /></a>
-        <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="c" height="60" /></a>
+        <a href="https://www.python.org" title="Python" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" alt="python" height="60" /></a>
+        <a href="https://www.java.com" title="Java" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" alt="java" height="60" /></a>
+        <a href="https://www.w3schools.com/c/" title="Langage C" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="c" height="60" /></a>
         <br />
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original-wordmark.svg" alt="html5" height="60" /></a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original-wordmark.svg" alt="css3" height="60" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" height="60" /></a>
+        <a href="https://www.w3.org/html/" title="HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original-wordmark.svg" alt="html5" height="60" /></a>
+        <a href="https://www.w3schools.com/css/" title="CSS3" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original-wordmark.svg" alt="css3" height="60" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" height="60" /></a>
         <br />
-        <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" alt="php" height="60" /></a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" height="60" /></a>
+        <a href="https://www.php.net" title="PHP" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" alt="php" height="60" /></a>
+        <a href="https://www.gnu.org/software/bash/" title="BASH" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" height="60" /></a>
       </p>
     </td>
     <td>
       <p align="center">
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="60" /></a>
-        <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="60" /></a>
+        <a href="https://www.postgresql.org" title="PostgreSQL" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="60" /></a>
+        <a href="https://www.mysql.com" title="MySQL" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="60" /></a>
         <br />
-        <a href="https://www.mongodb.com/en-us" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="60" /></a>
-        <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redis/redis-original-wordmark.svg" alt="redis" height="60" /></a>
+        <a href="https://www.mongodb.com/en-us" title="MongoDB" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="60" /></a>
+        <a href="https://redis.io/" title="Redis" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redis/redis-original-wordmark.svg" alt="redis" height="60" /></a>
       </p>
     </td>
     <td>
       <p align="center">
-        <a href="https://spring.io" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" alt="springboot" height="60" /></a>
-        <a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="60" /></a>
+        <a href="https://spring.io" title="Spring Boot" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" alt="springboot" height="60" /></a>
+        <a href="https://vuejs.org" title="Vue.js" title="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="60" /></a>
         <br />
-        <a href="https://expressjs.com/fr/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg" alt="expressjs" height="60" /></a>
-        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" height="60" /></a>
+        <a href="https://expressjs.com/fr/" title="Express.js" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg" alt="expressjs" height="60" /></a>
+        <a href="https://getbootstrap.com/" title="Bootstrap" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" height="60" /></a>
       </p>
     </td>
     <td>
       <p align="center">
-        <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" alt="vscode" height="60" /></a>
-        <a href="https://www.jetbrains.com/fr-fr/idea/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" height="60" /></a>
+        <a href="https://code.visualstudio.com" title="Visual Studio Code" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" alt="vscode" height="60" /></a>
+        <a href="https://www.jetbrains.com/fr-fr/idea/" title="IntelliJ IDEA" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" height="60" /></a>
         <br />
-        <a href="https://www.eclipse.org/org" target="_blank" rel="noreferrer"><img src="https://aymeric-cucherousset.fr/wp-content/uploads/2022/09/logo-eclipse.png" alt="eclipse" height="60" /></a>
-        <a href="https://www.jetbrains.com/fr-fr/phpstorm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png" alt="phpstorm" height="60" /></a>
+        <a href="https://www.eclipse.org/org" title="Eclipse" target="_blank" rel="noreferrer"><img src="https://aymeric-cucherousset.fr/wp-content/uploads/2022/09/logo-eclipse.png" alt="eclipse" height="60" /></a>
+        <a href="https://www.jetbrains.com/fr-fr/phpstorm/" title="PHPStorm" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png" alt="phpstorm" height="60" /></a>
         <br />
-        <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" height="60" /></a>
-        <a href="https://www.jetbrains.com/fr-fr/webstorm/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" alt="webstorm" height="60" /></a>
+        <a href="https://developer.android.com/studio" title="Android Studio" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" height="60" /></a>
+        <a href="https://www.jetbrains.com/fr-fr/webstorm/" title="WebStorm" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" alt="webstorm" height="60" /></a>
       </p>
     </td>
   </tr>
@@ -92,37 +92,37 @@
   <tr>
     <td>
       <p align="center">
-        <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-plain-wordmark.svg" alt="git" height="60" /></a>
-        <a href="https://huggingface.co/alexandre-huynh" target="_blank" rel="noreferrer"><img src="https://cdn-lfs.huggingface.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/9cf16f4f32604eaf76dabbdf47701eea5a768ebcc7296acc1d1758181f71db73?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.png%3B+filename%3D%22hf-logo.png%22%3B&response-content-type=image%2Fpng&Expires=1706826411&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwNjgyNjQxMX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzljZjE2ZjRmMzI2MDRlYWY3NmRhYmJkZjQ3NzAxZWVhNWE3NjhlYmNjNzI5NmFjYzFkMTc1ODE4MWY3MWRiNzM%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=NubfXeONYrXWiPksLkkBCzKejWCl0PEmwgfft9Xdm0OfpvgdyFrh9CYV8kRFgizdHy4CkHFFPotcN9SzjIdfgMQJQ5HWfJD-YCAE0W7GwuInSqE-ksjKPjDYwD0E-iDKleKWj-1Rc4RkeyAH6kCqHezRpx0EbvnU0qdAw1WlUqG1MqmXk97BlAyC4zZbBdlNGI3okScI-nAVbhdeyEMXwbUd-97B3kqC7LrFN09IcriQxapQ3s2n599%7E7Xp%7EL12kWL7OloNt5YkpN2wRAg6v1NsGxijosF5LyfK9VpYw8BXQcpXlIyB4T3eetz3ok6M2qCJYQz3m2Oncgjs0my3RZQ__&Key-Pair-Id=KVTP0A1DKRTAX" alt="huggingface" height="60" /></a>
+        <a href="https://git-scm.com" title="Git" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-plain-wordmark.svg" alt="git" height="60" /></a>
+        <a href="https://huggingface.co/alexandre-huynh" title="Hugging Face" target="_blank" rel="noreferrer"><img src="https://cdn-lfs.huggingface.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/9cf16f4f32604eaf76dabbdf47701eea5a768ebcc7296acc1d1758181f71db73?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.png%3B+filename%3D%22hf-logo.png%22%3B&response-content-type=image%2Fpng&Expires=1706826411&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwNjgyNjQxMX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzljZjE2ZjRmMzI2MDRlYWY3NmRhYmJkZjQ3NzAxZWVhNWE3NjhlYmNjNzI5NmFjYzFkMTc1ODE4MWY3MWRiNzM%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=NubfXeONYrXWiPksLkkBCzKejWCl0PEmwgfft9Xdm0OfpvgdyFrh9CYV8kRFgizdHy4CkHFFPotcN9SzjIdfgMQJQ5HWfJD-YCAE0W7GwuInSqE-ksjKPjDYwD0E-iDKleKWj-1Rc4RkeyAH6kCqHezRpx0EbvnU0qdAw1WlUqG1MqmXk97BlAyC4zZbBdlNGI3okScI-nAVbhdeyEMXwbUd-97B3kqC7LrFN09IcriQxapQ3s2n599%7E7Xp%7EL12kWL7OloNt5YkpN2wRAg6v1NsGxijosF5LyfK9VpYw8BXQcpXlIyB4T3eetz3ok6M2qCJYQz3m2Oncgjs0my3RZQ__&Key-Pair-Id=KVTP0A1DKRTAX" alt="huggingface" height="60" /></a>
         <br />
-        <a href="https://www.github.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg" alt="github" height="60" /></a>
-        <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" height="60" /></a>
+        <a href="https://www.github.com" title="GitHub" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg" alt="github" height="60" /></a>
+        <a href="https://about.gitlab.com/" title="GitLab" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" height="60" /></a>
       </p>
     </td>
     <td>
       <p align="center">
-        <a href="https://www.microsoft.com/fr-fr/windows/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/windows8/windows8-original.svg" alt="windows" height="60" /></a>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" height="60" /></a>
+        <a href="https://www.microsoft.com/fr-fr/windows/" title="Windows" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/windows8/windows8-original.svg" alt="windows" height="60" /></a>
+        <a href="https://www.linux.org/" title="Linux" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" height="60" /></a>
         <br />
-        <a href="https://www.ubuntu-fr.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" height="60" /></a>
-        <a href="https://www.raspberrypi.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="60" /></a>
+        <a href="https://www.ubuntu-fr.org" title="Ubuntu" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" height="60" /></a>
+        <a href="https://www.raspberrypi.com" title="Raspberry Pi" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="60" /></a>
       </p>
     </td>
     <td colspan=2>
       <p align="center">
-        <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg" alt="docker" height="60" /></a>
-        <a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="60" /></a>
-        <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" height="60" /></a>
-        <a href="https://site.mockito.org" target="_blank" rel="noreferrer"><img src="https://github.com/mockito/mockito.github.io/raw/master/img/logo%402x.png" alt="mockito" height="60" /></a>
+        <a href="https://www.docker.com" title="Docker" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg" alt="docker" height="60" /></a>
+        <a href="https://jupyter.org" title="Jupyter" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="60" /></a>
+        <a href="https://junit.org/junit5/" title="Junit5" target="_blank" rel="noreferrer"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" height="60" /></a>
+        <a href="https://site.mockito.org" title="Mockito" target="_blank" rel="noreferrer"><img src="https://github.com/mockito/mockito.github.io/raw/master/img/logo%402x.png" alt="mockito" height="60" /></a>
         <br />
-        <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" alt="npm" height="60" /></a>
-        <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="60" /></a>
-        <a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original-wordmark.svg" alt="jquery" height="60" /></a>
-        <a href="https://nifi.apache.org/" target="_blank" rel="noreferrer"><img src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/nifi.svg" alt="apache_nifi" height="40" /></a>
+        <a href="https://www.npmjs.com" title="npm" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" alt="npm" height="60" /></a>
+        <a href="https://nodejs.org/en" title="Node.js" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="60" /></a>
+        <a href="https://jquery.com" title="jQuery" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original-wordmark.svg" alt="jquery" height="60" /></a>
+        <a href="https://nifi.apache.org/" title="Apache NiFi" target="_blank" rel="noreferrer"><img src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/nifi.svg" alt="apache_nifi" height="40" /></a>
         <br />
-        <a href="https://rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" alt="rabbitmq" height="60" /></a>
-        <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" height="60" /></a>
-        <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png" alt="dbeaver" height="60" /></a>
+        <a href="https://rabbitmq.com/" title="RabbitMQ" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" alt="rabbitmq" height="60" /></a>
+        <a href="https://www.postman.com/" title="Postman" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" height="60" /></a>
+        <a href="https://dbeaver.io/" title="DBeaver" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png" alt="dbeaver" height="60" /></a>
         <!--<a href="https://doc.ubuntu-fr.org/ssh" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ssh/ssh-original-wordmark.svg" alt="ssh" height="60" /></a>-->
       </p>
     </td>
