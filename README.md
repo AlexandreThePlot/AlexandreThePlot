@@ -59,10 +59,11 @@
     <td>
       <p align="center">
         <a href="https://spring.io" title="Spring Boot" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" alt="springboot" height="60" /></a>
-        <a href="https://vuejs.org" title="Vue.js" title="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="60" /></a>
+        <a href="https://getbootstrap.com/" title="Bootstrap" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" height="60" /></a>
         <br />
         <a href="https://expressjs.com/fr/" title="Express.js" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg" alt="expressjs" height="60" /></a>
-        <a href="https://getbootstrap.com/" title="Bootstrap" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" height="60" /></a>
+        <a href="https://vuejs.org" title="Vue.js" title="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="60" /></a>
+        <a href="https://vuetifyjs.com/en/" title="Vuetify" target="_blank" rel="noreferrer"><img src="https://cdn.vuetifyjs.com/images/logos/logo.svg" alt="vuetify" height="60" /></a>
       </p>
     </td>
     <td>
@@ -106,6 +107,9 @@
         <br />
         <a href="https://www.ubuntu-fr.org" title="Ubuntu" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" height="60" /></a>
         <a href="https://www.raspberrypi.com" title="Raspberry Pi" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="60" /></a>
+        <br />
+        <a href="https://www.vagrantup.com/" title="Vagrant" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vagrant/vagrant-original.svg" alt="vagrant" height="60" /></a>
+        <a href="https://www.vmware.com/fr/products/workstation-pro.html" title="VMWare Workstation" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/600px-Vmware_workstation_16_icon.svg.png" alt="vmware_workstation" height="60" /></a>
       </p>
     </td>
     <td colspan=2>
@@ -123,6 +127,7 @@
         <a href="https://rabbitmq.com/" title="RabbitMQ" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" alt="rabbitmq" height="60" /></a>
         <a href="https://www.postman.com/" title="Postman" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" height="60" /></a>
         <a href="https://dbeaver.io/" title="DBeaver" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png" alt="dbeaver" height="60" /></a>
+        <a href="https://www.jenkins.io/" title="Jenkins" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jenkins/jenkins-original.svg" alt="jenkins" height="60" /></a>
         <!--<a href="https://doc.ubuntu-fr.org/ssh" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ssh/ssh-original-wordmark.svg" alt="ssh" height="60" /></a>-->
       </p>
     </td>
