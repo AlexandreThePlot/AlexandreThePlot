@@ -3,7 +3,7 @@
 <!--==========================================================-->
 
 <!--=======================Description FR=======================-->
-<h1>👋 Bonjour, je suis Alexandre Huynh (@alexandre-huynh)</h1>
+<h1>👋 Bonjour ! Je suis Alexandre Huynh (@alexandre-huynh)</h1>
   
 <h2>À propos de moi</h2>
   
