@@ -136,11 +136,13 @@
       <p align="center">
         <a href="https://jupyter.org" title="Jupyter" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="60" /></a>
         <a href="https://jquery.com" title="jQuery" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original-wordmark.svg" alt="jquery" height="60" /></a>
+        <br />
         <a href="https://www.postman.com/" title="Postman" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" height="60" /></a>
         <a href="https://dbeaver.io/" title="DBeaver" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png" alt="dbeaver" height="60" /></a>
         <br />
         <a href="https://www.tensorflow.org/?hl=en" title="TensorFlow" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" height="60" /></a>
         <a href="https://keras.io/" title="Keras" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/langfr-110px-Keras_logo.svg.png" height="60" /></a>
+        <br />
         <a href="https://scikit-learn.org/stable/" title="scikit-learn" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikitlearn" height="60" /></a>
         <!--<a href="https://doc.ubuntu-fr.org/ssh" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ssh/ssh-original-wordmark.svg" alt="ssh" height="60" /></a>-->
       </p>
