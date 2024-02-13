@@ -113,7 +113,7 @@
         <a href="https://www.ubuntu-fr.org" title="Ubuntu" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" height="60" /></a>
         <a href="https://www.debian.org/index.en.html" title="Debian" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/debian/debian-original-wordmark.svg" alt="debian" height="60" /></a>
         <br />
-        <a href="https://www.docker.com" title="Docker" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg" alt="docker" height="60" /></a>
+        <a href="https://www.docker.com" title="Docker" target="_blank" rel="noreferrer"><img src="/assets/blue-docker-logo.svg" alt="docker" height="60" /></a>
         <a href="https://www.raspberrypi.com" title="Raspberry Pi" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="60" /></a>
         <br />
         <a href="https://www.vagrantup.com/" title="Vagrant" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vagrant/vagrant-original.svg" alt="vagrant" height="60" /></a>
